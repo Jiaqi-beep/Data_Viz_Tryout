@@ -4,3 +4,6 @@ Between June and August, I tried out Data Visualization for the first time under
 
 Here is the published blogpost at the end of the summer:
 https://dlinq.middcreate.net/digital-literacy/a-dab-of-data-visualization/ 
+
+
+Currently working on another blogpost on visualizing personal phone usage
