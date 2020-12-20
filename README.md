@@ -6,4 +6,5 @@ Here is the published blogpost at the end of the summer:
 https://dlinq.middcreate.net/digital-literacy/a-dab-of-data-visualization/ 
 
 
-Currently working on another blogpost on visualizing personal phone usage
+Science is a Form of Storytelling blogpost:
+https://blurringboundaries.us/science-is-a-form-of-storytelling-9a3ef61b409e
