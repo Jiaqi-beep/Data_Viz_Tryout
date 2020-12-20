@@ -1,4 +1,4 @@
-# summer2020
+# Data_Viz_Tryout
 
 Between June and August, I tried out Data Visualization for the first time under Digital Learning and Inquiry department at Middlebury College.
 
